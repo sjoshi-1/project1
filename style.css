@@ -65,8 +65,14 @@ h1,h2,h3,h4,p{
                      padding:5px;
                      background-color:black;
                      color:white;
-                                 }
+ }                               
+ #navbar>ul>li>ion-icon{
+    
+    color:beige;
+    width:200px;
+    height: 100px;
 
+ }
                 /*product*/
 .card {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -98,3 +104,5 @@ h1,h2,h3,h4,p{
                     margin-top: 8px;
                     vertical-align: middle;
                   }                           
+   
+                  
