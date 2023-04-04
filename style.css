@@ -8,9 +8,11 @@ h1,h2,h3,h4,p{
     font-size: 75px;
             }
                                      
- h4,h3{
+ h4,h3,h2{
     font-size: 26px;
-    color:brown; 
+    color:rgb(205, 7, 7); 
+    font-style:italic;
+    font-weight:bold; 
     }
                                      
  p{
@@ -105,4 +107,17 @@ h1,h2,h3,h4,p{
                     vertical-align: middle;
                   }                           
    
-                  
+                 /*Events*/
+                 
+                
+                 #events>ul>li{
+                  font-size: 40px;
+                  text-decoration: none;
+                  color:#083c3c;
+                  font-style: italic;
+                  font-weight: bold;
+                  font-family:'Cormorant Garamond', serif;
+                                      }
+                                      #footer{
+                                       background-color: black;;
+                                      }
